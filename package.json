@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/WatersideDevelopment/GERTY/issues"
   },
-  "homepage": "https://github.com/WatersideDevelopment/GERTY#readme"
+  "homepage": "https://github.com/WatersideDevelopment/GERTY#readme",
+  "dependencies": {
+    "slackbots": "^0.5.1"
+  }
 }
