@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/WatersideDevelopment/GERTY#readme",
   "dependencies": {
+    "bunyan": "^1.6.0",
     "slackbots": "^0.5.1"
   }
 }
