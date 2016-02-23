@@ -35,4 +35,7 @@ node_modules
 # IntelliJ cruft
 .idea/
 
+# GERTY specific bits
+# Our Running Config
 config.js
+cells/
