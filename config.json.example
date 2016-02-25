@@ -1,6 +1,6 @@
 {
-	'token': 'YOUR-SLACK-BOT-KEY',
-	'cellDir': '/path/to/your/installed/cells'
-    'cellConfig': {
+	"token": "YOUR-SLACK-BOT-KEY",
+	"cellDir": "/path/to/your/installed/cells"
+    "cellConfig": {
     }
-};
+}
