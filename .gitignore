@@ -37,5 +37,5 @@ node_modules
 
 # GERTY specific bits
 # Our Running Config
-config.js
+config.json
 cells/
