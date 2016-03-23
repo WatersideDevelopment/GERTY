@@ -4,7 +4,7 @@
   "description": "GERTY - A (semi) helpful AI to keep lonely developers company...",
   "main": "index.js",
   "scripts": {
-    "run": "node index.js | node ./node_modules/.bin/bunyan",
+    "start": "node index.js | node ./node_modules/.bin/bunyan",
     "test": "gulp test"
   },
   "repository": {
